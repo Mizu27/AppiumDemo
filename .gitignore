@@ -1,3 +1,5 @@
 .settings/org.eclipse.jdt.core.prefs
 AppiumDemo/.settings/org.eclipse.jdt.core.prefs
-.adlibs
+adlibs
+AppiumDemo/adlibs/hamcrest-core-1.3.jar
+
